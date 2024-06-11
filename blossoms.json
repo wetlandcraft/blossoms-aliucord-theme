@@ -3,12 +3,12 @@
         "name": "Blossoms",
         "version": "1.0",
         "author": "WetlandCraft",
-        "updater": "https:\/\/raw.githubusercontent.com\/ukivie\/blossom-aliucord-theme\/main\/blossomed.json"
+        "updater": "https:\/\/raw.githubusercontent.com\/wetlandcraft\/blossoms-aliucord-theme\/blossoms.json"
     },
     "background": {
         "overlay_alpha": 0,
-        "url": "https:\/\/raw.githubusercontent.com\/ukivie\/blossom-aliucord-theme\/main\/bg.png",
-        "blur_radius": 2
+        "url": "https:\/\/raw.githubusercontent.com\/wetlandcraft\/blossoms-aliucord-theme\/main\/bg.jpg",
+        "blur_radius": 0
     },
     "fonts": {
         "ginto_bold": "https:\/\/github.com\/myumichi\/evergreen\/blob\/main\/fonts\/SrabenGrotesk-Bold.ttf?raw=1",
